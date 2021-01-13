@@ -1,4 +1,4 @@
-<img src="VainlyStrain.gif" align="center"/>
+<p align="center"><img src="vainly.png" height="580"/></p>
 <h1 align="center">VainlyStrain</h1>
 <p align="center">Some leisure projects in offensive and defensive cybersecurity.</p>
 <p align="center">
